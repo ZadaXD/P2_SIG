@@ -69,7 +69,7 @@
             <div class="col-12">
             <button type="submit" name="submit" class="btn btn-danger w-100">Submit</button>
             <hr>
-            <a href="View.php" class="btn btn-warning w-100" role="button">Back</a>
+            <a href="Index.html" class="btn btn-warning w-100" role="button">Back</a>
             </div>
         </form>
         <hr>
